@@ -75,8 +75,8 @@ drwxr-xr-x  jarvis-assistant/    # Voice assistant — Web Audio API + Web Speec
 drwxr-xr-x  velo-fit/            # React SPA — sports performance tracking
 ```
 
-> edit the paths above to link your real repos once pushed:
-> `[phishbrain/](https://github.com/raunakboss/PhishBrain)` etc.
+> ⚠️ EDIT ME: replace with your real repo URLs, e.g.
+> `[phishbrain/](https://github.com/raunakboss/PhishBrain)`
 
 <br>
 
@@ -86,9 +86,16 @@ drwxr-xr-x  velo-fit/            # React SPA — sports performance tracking
 raunak@arivihan:~$ cat contact.txt
 ```
 
-<img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" />
+<!-- ⚠️ EDIT ME: replace the three href="..." values below with your real links -->
+<a href="mailto:raunak0192003@gmail.comL@example.com">
+  <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" />
+</a>
+<a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" />
+</a>
+<a href="https://github.com/raunakboss">
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" />
+</a>
 
 <br><br>
 
