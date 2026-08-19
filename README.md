@@ -1,62 +1,104 @@
-<h1 align="center">Hi 👋, I'm Raunak Saxena</h1>
-<h3 align="center">AI/ML Data Associate @ Arivihan Technologies | CSE Grad, Manipal University Jaipur</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+ML+pipelines+%26+security+tools;Cybersecurity+%2B+Computer+Vision+enthusiast;Always+shipping+something+new" alt="Typing SVG" />
-</p>
+```
+██████╗  █████╗ ██╗   ██╗███╗   ██╗ █████╗ ██╗  ██╗██████╗  ██████╗ ███████╗███████╗
+██╔══██╗██╔══██╗██║   ██║████╗  ██║██╔══██╗██║ ██╔╝██╔══██╗██╔═══██╗██╔════╝██╔════╝
+██████╔╝███████║██║   ██║██╔██╗ ██║███████║█████╔╝ ██████╔╝██║   ██║███████╗███████╗
+██╔══██╗██╔══██║██║   ██║██║╚██╗██║██╔══██║██╔═██╗ ██╔══██╗██║   ██║╚════██║╚════██║
+██║  ██║██║  ██║╚██████╔╝██║ ╚████║██║  ██║██║  ██╗██████╔╝╚██████╔╝███████║███████║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝╚══════╝
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;raunak+saxena+%E2%80%94+ai%2Fml+data+associate;%24+cat+skills.txt+%7C+grep+-i+%22security%22;%24+status%3A+online" alt="Typing SVG" />
 
----
+</div>
 
-### 🧭 About Me
+<br>
 
-- 🔭 Currently working on ML/data pipelines and content moderation tooling at **Arivihan Technologies**
-- 🎓 CSE grad from Manipal University Jaipur (2021–2025)
-- 🛡️ Founding member of my university's cybersecurity club
-- 🧑‍💻 Past experience: Cybersecurity internship @ Aujas Cybersecurity · Frontend internship @ AppyHigh
-- 🌱 Interested in: ML for security, computer vision, and automation tooling
+```bash
+raunak@arivihan:~$ neofetch
+```
 
----
+```
+       .-/+oossssoo+/-.               raunak@github
+    `:+ssssssssssssssssss+:`          -----------------
+  -+ssssssssssssssssssyyssss+-        OS: CSE Grad — Manipal University Jaipur '25
+.ossssssssssssssssssdMMMNysssso.      Host: Arivihan Technologies
+/ssssssssssshdmmNNmmyNMMMMhssssss/    Role: AI/ML Data Associate
++ssssssssshmydMMMMMMMNddddyssssssss+  Focus: ML pipelines · content moderation · CV
+/sssssssshNMMMyhhyyyyhmNMMMNhssssss/  Shell: python3
+.ssssssssdMMMNhsssssssssshNMMMdssss.  Prior: Aujas Cybersecurity (intern)
++sssshhhyNMMNyssssssssssssyNMMMysss+          AppyHigh (frontend intern)
+ossyNMMMNyMMhsssssssssssssshmmmhssso  Org: Founding member, campus cybersecurity club
+ossyNMMMNyMMhsssssssssssssshmmmhssso  Terminal: passionate about security + automation
++sssshhhyNMMNyssssssssssssyNMMMysss+
+.ssssssssdMMMNhsssssssssshNMMMdssss.
+/sssssssshNMMMyhhyyyyhdNMMMNhssssss/
++sssssssssdmydMMMMMMMMddddyssssssss+
+/ssssssssssshdmNNNNmyNMMMMhssssss/
+.ossssssssssssssssssdMMMNysssso.
+  -+sssssssssssssssssyyyssss+-
+    `:+ssssssssssssssssss+:`
+       .-/+oossssoo+/-.
+```
 
-### 🚀 Featured Projects
+<br>
 
-| Project | Description | Stack |
-|---|---|---|
-| 🎣 **[PhishBrain](https://github.com/raunakboss/PhishBrain)** | AI-powered phishing detection system using a Random Forest model + VirusTotal API, with a Matrix-style Streamlit dashboard | `Python` `scikit-learn` `Streamlit` `VirusTotal API` |
-| 🚗 **[ANPR Project](https://github.com/raunakboss/ANPR_Project)** | Automatic Number Plate Recognition system for detecting and reading license plates | `Python` `OpenCV` `ML` |
-| 🔢 **[Automatic License Plate Recognition System](https://github.com/raunakboss/Automatic-License-Number-Plate-Recognition-System-)** | End-to-end plate detection + recognition pipeline | `Python` `Computer Vision` |
-| 🎙️ **JARVIS Voice Assistant** | Browser-based voice assistant using Web Audio API + Web Speech API | `HTML` `JavaScript` `Web Speech API` |
-| 🏃 **Velo Fit** | Sports performance tracking single-page app | `React` |
+```bash
+raunak@arivihan:~$ nmap -sV --scripts=skills localhost
+```
 
-> Edit the links above once your repos are public/renamed to match — swap in real repo URLs.
+```
+STARTING SCAN...
+PORT      STATE   SERVICE           VERSION
+1337/tcp  open    python            ML pipelines, automation scripts
+8080/tcp  open    react             Frontend SPAs
+9001/tcp  open    opencv            Computer vision / ANPR systems
+443/tcp   open    security          Phishing detection, threat modeling
+5000/tcp  open    streamlit         Dashboards & ML demos
 
----
+SCAN COMPLETE: 5 services identified. Host is battle-tested.
+```
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raunakboss&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakboss&layout=compact&theme=radical&hide_border=true" />
-</p>
+```bash
+raunak@arivihan:~/projects$ ls -la --sort=featured
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunakboss&theme=radical&hide_border=true" />
-</p>
+```
+drwxr-xr-x  phishbrain/          # AI phishing detector — RandomForest + VirusTotal API,
+                                 # Matrix-style Streamlit dashboard
+drwxr-xr-x  anpr_project/        # Automatic Number Plate Recognition — OpenCV pipeline
+drwxr-xr-x  anpr-license-plate/  # End-to-end plate detection + recognition system
+drwxr-xr-x  jarvis-assistant/    # Voice assistant — Web Audio API + Web Speech API
+drwxr-xr-x  velo-fit/            # React SPA — sports performance tracking
+```
 
----
+> edit the paths above to link your real repos once pushed:
+> `[phishbrain/](https://github.com/raunakboss/PhishBrain)` etc.
 
-### 📫 Connect
+<br>
 
-<p align="center">
-  <!-- Add your real links -->
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<p align="center"><i>⭐️ From <a href="https://github.com/raunakboss">raunakboss</a></i></p>
+```bash
+raunak@arivihan:~$ cat contact.txt
+```
+
+<img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=raunakboss&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakboss&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" height="160"/>
+
+<br>
+
+```
+[EOF]  connection closed by host.  status: 200 OK
+```
+
+</div>
